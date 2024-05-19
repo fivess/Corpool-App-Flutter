@@ -1,16 +1,18 @@
-# corpool_flutter
+# Corpool
 
-A new Flutter project.
+Corpool é um aplicativo desenvolvido em Flutter para facilitar o compartilhamento de caronas empresarial entre usuários. Nosso objetivo é tornar o processo de organização e participação em caronas mais eficiente e agradável, com um visual aprimorado e uma interface intuitiva.
 
-## Getting Started
+## Recursos
 
-This project is a starting point for a Flutter application.
+- **Cadastro de Usuários**: Registre-se com seu e-mail ou utilize o login social.
+- **Criação de Caronas**: Organize e publique suas caronas com facilidade.
+- **Busca de Caronas**: Encontre caronas disponíveis de acordo com suas preferências.
 
-A few resources to get you started if this is your first Flutter project:
+Link do yt para o video do app: 
+🎞🎞🎬🎬  https://youtu.be/2KZ21QV4M30   🎬🎬🎥🎥
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Sobre o aplicativo: 
+
+Pode ser necessário utilizar o flutter get pub para atualizar, e também o flutter clean, caso precise do multidexenable. 
