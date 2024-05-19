@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>960783908208-90sjth66dmnbvdl3chcf9v0q0s5mtjgr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.960783908208-90sjth66dmnbvdl3chcf9v0q0s5mtjgr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>960783908208-hnnskknpqqtglq96sbhsh5a2sa5c7j4m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCanfhbvlnJpUcc-bBd7uEhicebvey-GAU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960783908208</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.noobs.corpoolFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>corpool-1d9c0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>corpool-1d9c0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960783908208:ios:2606ee72f8991c1f2c23b5</string>
+</dict>
+</plist>
